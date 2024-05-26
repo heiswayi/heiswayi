@@ -1,5 +1,9 @@
-Hi 👋, I'm Heiswayi Nrird - _Software Engineer @ Keysight Technologies_
-
-Other repos:
-- GitHub Gist: https://gist.github.com/heiswayi
-- Codeberg: https://codeberg.org/hn
+```
+╭╮╭╮╱╭┳━╮╱╱╱╱╱╱╱╭╮╭━┳╮╱╭╮╱╱╭╮
+┃╰╯┣━╋┫━╋┳┳┳━╮╭┳╋┫┃┃┃┣┳╋╋┳┳╯┃
+┃╭╮┃┻┫┣━┃┃┃┃╋╰┫┃┃┃┃┃┃┃╭┫┃╭┫╋┃
+╰╯╰┻━┻┻━┻━━┻━━╋╮┣╯╰┻━┻╯╰┻╯╰━╯
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━╯
+```
+Hi 👋, I'm Heiswayi Nrird - _Software Engineer @ Keysight Technologies_<br>
+More about me on [https://nrird.com/about](https://nrird.com/about)
