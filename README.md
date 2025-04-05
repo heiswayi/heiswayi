@@ -6,7 +6,7 @@
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━╯ © 2015-2025
 ```
 Hi 👋, I'm Heiswayi Nrird - _Software Development Lead @ Altera_<br>
-Learn more about me on [https://nrird.com/about](https://nrird.com/about)
+More details about me on [https://nrird.com/about](https://nrird.com/about)
 
 ## My Tech Stack
 
